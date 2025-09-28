@@ -1,4 +1,4 @@
-# booking
+# Booking-App
 
 A new Flutter project.
 
